@@ -1,4 +1,4 @@
-# Teck Markte MVC Project 
+# Tech Market MVC Project 
 
 ## Project Overview
 
