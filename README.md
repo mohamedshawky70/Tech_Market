@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Objective:** This project incorporates various design patterns and best practices, including the Repository Pattern, Unit of Work, and Singleton Pattern. It leverages Entity Framework Core for database interactions and includes comprehensive user and role management using Microsoft ASP.NET Identity. Additionally, the project integrates a pre-built theme, utilizes JavaScript libraries like jQuery DataTables and Toaster JS, and implements a full-featured admin dashboard for managing the project.
+**Objective:** This project incorporates various design patterns and best practices, including the Repository Pattern, Singleton Pattern. It leverages Entity Framework Core for database interactions and includes comprehensive user and role management using Microsoft ASP.NET Identity. Additionally, the project integrates a pre-built theme, utilizes JavaScript libraries like jQuery DataTables and Toaster JS, and implements a full-featured admin dashboard for managing the project.
 
 ## Key Features and Development Focus
 
