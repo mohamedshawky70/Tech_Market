@@ -1,0 +1,132 @@
+﻿@model IEnumerable<ShopingCard>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Shopping Cart</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" ">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="~/ShopingCard/style.css" rel="stylesheet" />
+    <link href="~/shopingcard/style.css" rel="stylesheet" />
+</head>
+
+<body>
+	<main class="page">
+		<section class="shopping-cart dark">
+			<div class="container">
+				@{
+					decimal TotalPrice = 0;
+				}
+				@if (ViewBag.empty == "Empty")
+				{
+					<img class="car" src="~/img/empty-cart.png" />
+				}
+				else
+				{
+					<div class="block-heading">
+						<h1>Shopping Cart</h1>
+
+					</div>
+				}
+				
+				@foreach (var item in Model)
+				{
+					<div class="content">
+					<div class="row">
+						<div class="col-md-12 col-lg-8">
+							<div class="items">
+								<div class="product">
+									<div class="row">
+										<div class="col-md-3">
+												<img class="img-fluid mx-auto d-block image" src="~/Images/Product/@item.product.Img">
+										</div>
+										<div class="col-md-8">
+											<div class="info">
+												<div class="row">
+													<div class="col-md-5 product-name">
+														<div class="product-name">
+															<a href="#">@item.product.Name</a>
+															<div class="product-info">
+																<div>Disreption: <span class="value">@item.product.Description</span></div>
+															</div>
+														</div>
+													</div>
+														
+													<div class="PM">
+															<a class="btn btn-primary " asp-controller="ShopingCard" asp-action="Plus" asp-route-CardId="@item.Id"><i class="bi bi-plus-square"></i></a>
+														<span>@item.Counter</span>
+															<a class="btn btn-primary" asp-controller="ShopingCard" asp-action="Minus" asp-route-CardId="@item.Id"><i class="bi bi-dash-square"></i></a>
+														</div>
+													<div class="col-md-4 price">
+															<span>@item.product.Price <sup>EGP</sup></span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+						<div class="col-md-12 col-lg-4 ">
+							<div class="summary">
+								<h3>Summary</h3>
+									@{
+										decimal Total = @item.product.Price * @item.Counter;
+
+										TotalPrice += Total;
+									}
+									<div class="summary-item Total"><span class="text">Total : &nbsp;&nbsp;</span><span> @Total<sup>EGP</sup></span></div>
+									<div class="butt">
+										@if(Model.Last()==item)
+										{
+
+											<div class="summary-item text-primary"><span class="text">Price of all products : &nbsp;&nbsp;</span><span> @TotalPrice<sup>EGP</sup></span></div>
+											<a type="button" asp-controller="ShopingCard" asp-action="ProceedToBuy" class="btn btn-success btn-lg btn-block">Proceed To Buy</a>
+											<a type="button" class="btn btn-secondary btn-lg btn-block" asp-action="Index" asp-controller="Home">Continue Shoping</a>
+										}
+										
+									</div>
+									<div class="del">
+										<a asp-controller="ShopingCard" asp-action="Delete" asp-route-CardId="@item.Id"><i class="bi bi-trash btn btn-danger"></i></a>
+									</div>
+									
+							</div>
+						</div>
+					</div>
+				</div>
+					
+				}
+				
+				
+			</div>
+		</section>
+	</main>
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+<link href="~/css/mycss.css" rel="stylesheet" />
+@section scripts
+{
+	<partial name="_ValidationScriptsPartial" />
+
+}
+<style>
+	.Total{
+		position:relative;
+		top:30px;
+	}
+	.butt{
+		position: relative;
+		top: 30px;
+	}
+	.car{
+		width:900px;
+		hight:900px;
+		position:relative;
+		left:130px;
+	}
+</style>

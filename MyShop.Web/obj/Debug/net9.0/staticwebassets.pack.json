@@ -1,0 +1,2989 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\compu market\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\compu market\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyShop.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyShop.Web.vs1daic4jq.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Customer\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\Customer\\assets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Customer\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Customer\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\card.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\messages-1.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\messages-2.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\messages-3.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\news-4.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\news-4.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\news-5.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\news-5.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\not-found.svg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\not-found.svg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\slides-1.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\slides-2.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\img\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\img\\slides-3.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.amd.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.common.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.esm.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ar.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\be-cyrl.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\be-cyrl.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\be-latn.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\be-latn.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\da.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\da.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\et.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\et.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\fa.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\hu.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\lv.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ms.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ms.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\vi.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\vi.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\apexcharts\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\prb.txt",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\css\\prb.txt"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chart.cjs",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chart.cjs"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chart.cjs.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chart.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chart.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chart.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chart.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chart.umd.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\controllers\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.animation.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.animation.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.animations.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.animations.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.animator.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.animator.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.config.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.config.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.controller.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.controller.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.element.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.element.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.registry.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.registry.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.scale.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.scale.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\core\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\element.line.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\element.line.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\element.point.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\element.point.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\elements\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers.cjs",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers.cjs"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers.cjs.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\index.umd.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\platform\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\platform\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\types.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\types.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\types\\animation.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\types\\animation.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\types\\basic.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\types\\basic.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\types\\color.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\types\\color.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\types\\geometric.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\types\\geometric.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\types\\index.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\types\\index.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\types\\layout.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\types\\layout.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\chart.js\\types\\utils.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\chart.js\\types\\utils.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.common.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.min.mjs",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.min.mjs"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.mjs",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.mjs"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.mjs.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.esm.mjs.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.simple.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.simple.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\echarts\\package.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\echarts\\package.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.bubble.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.bubble.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.core.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.core.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.core.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.core.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.core.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.core.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.core.js.LICENSE.txt"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.core.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.core.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.js.LICENSE.txt"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.js.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\quill\\quill.snow.css.map",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\quill\\quill.snow.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.glyph.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.glyph.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\README.md",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\README.md"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\bower.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\composer.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\license.md",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\license.md"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\models\\dom\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\models\\dom\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\package.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\accordion\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\accordion\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\assets\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\DashbordIndex\\assets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\DashbordIndex\\forms\\Readme.txt"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\DashbordIndex\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\DashbordIndex\\forms\\contact.php"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\1.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\41btGX2zKxS._AC_SL1000_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\41btGX2zKxS._AC_SL1000_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\41xGozqqrRL._AC_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\41xGozqqrRL._AC_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\497b97264121a74b035736cf23158e4f.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\497b97264121a74b035736cf23158e4f.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\51IZ24O2w5L._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\51IZ24O2w5L._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\51YQ8Tjj13L._AC_SL1000_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\51YQ8Tjj13L._AC_SL1000_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\51YVHxIBf6L._AC_SL1000_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\51YVHxIBf6L._AC_SL1000_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\51ioRPA+MSL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\51ioRPA+MSL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\51rjcxo4+dL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\51rjcxo4+dL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\51ss8lR-HhL._AC_SL1000_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\51ss8lR-HhL._AC_SL1000_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\51yjs-At9GL._AC_SL1000_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\51yjs-At9GL._AC_SL1000_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\61Mk3YqYHpL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\61Mk3YqYHpL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\61fBHWzvJJL._AC_SL1000_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\61fBHWzvJJL._AC_SL1000_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\61flnF2zFJL._AC_SL1000_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\61flnF2zFJL._AC_SL1000_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\61rdUiJ5DcL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\61rdUiJ5DcL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\61shUuiQKiL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\61shUuiQKiL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\71-UUF+5EZL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\71-UUF+5EZL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\711Svu7a4lL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\711Svu7a4lL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\716OmvUFy1L._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\716OmvUFy1L._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\71H7g4l38CL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\71H7g4l38CL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\71UmvqTuSbL.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\71UmvqTuSbL.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\71ZYyxsnisL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\71ZYyxsnisL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\71friK40+-L._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\71friK40+-L._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\81T3mcf46RL._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\81T3mcf46RL._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\81yiUAc9N4L._AC_SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\81yiUAc9N4L._AC_SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\D_NQ_NP_714192-CBT75775437982_042024-O.webp",
+      "PackagePath": "staticwebassets\\Images\\Product\\D_NQ_NP_714192-CBT75775437982_042024-O.webp"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\IdeaPad_Gaming_3_15ACH6_CT2_01.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\IdeaPad_Gaming_3_15ACH6_CT2_01.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\Iphon.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\Iphon.jpeg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\images (1).jpeg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\images.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Product\\images.jpeg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\kisspng-msi-ge63-raider-msi-ge73-raider-laptop-micro-star-5bf2a925a5d083.8101300915426296696792.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\kisspng-msi-ge63-raider-msi-ge73-raider-laptop-micro-star-5bf2a925a5d083.8101300915426296696792.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\mo.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\mo.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\pngtree-asus-elegant-gaming-laptop-png-image_13763518.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\pngtree-asus-elegant-gaming-laptop-png-image_13763518.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\red-laptop-computer-WEJZVLA-600.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\red-laptop-computer-WEJZVLA-600.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\Images\\Product\\sho.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\sho.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\ShopingCard\\index.html",
+      "PackagePath": "staticwebassets\\ShopingCard\\index.html"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\ShopingCard\\style.css",
+      "PackagePath": "staticwebassets\\ShopingCard\\style.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\DelPro.css",
+      "PackagePath": "staticwebassets\\css\\DelPro.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\ImgAdminPro.css",
+      "PackagePath": "staticwebassets\\css\\ImgAdminPro.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\MyCss.css",
+      "PackagePath": "staticwebassets\\css\\MyCss.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\Order.css",
+      "PackagePath": "staticwebassets\\css\\Order.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\ProceedToBuy.css",
+      "PackagePath": "staticwebassets\\css\\ProceedToBuy.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\img\\avatar.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\img\\avatar2.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\img\\avatar3.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\img\\avatar4.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\img\\avatar5.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\cart.png",
+      "PackagePath": "staticwebassets\\img\\cart.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\img\\default-150x150.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\delivery.jpg",
+      "PackagePath": "staticwebassets\\img\\delivery.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\empty-cart.png",
+      "PackagePath": "staticwebassets\\img\\empty-cart.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\empty.jpg",
+      "PackagePath": "staticwebassets\\img\\empty.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\icons.png",
+      "PackagePath": "staticwebassets\\img\\icons.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\img\\login.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\order-confirmation.jpg",
+      "PackagePath": "staticwebassets\\img\\order-confirmation.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\img\\photo1.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\img\\photo2.png"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\register.jpg",
+      "PackagePath": "staticwebassets\\img\\register.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\secure-login-illustration-download-in-svg-png-gif-file-formats--security-account-password-user-authentication-web-services-pack-design-development-illustrations-5874827.webp",
+      "PackagePath": "staticwebassets\\img\\secure-login-illustration-download-in-svg-png-gif-file-formats--security-account-password-user-authentication-web-services-pack-design-development-illustrations-5874827.webp"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\Order.js",
+      "PackagePath": "staticwebassets\\js\\Order.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\Save.js",
+      "PackagePath": "staticwebassets\\js\\Save.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\Users.js",
+      "PackagePath": "staticwebassets\\js\\Users.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\TechMarket\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyShop.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyShop.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyShop.Web.props",
+      "PackagePath": "build\\MyShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyShop.Web.props",
+      "PackagePath": "buildMultiTargeting\\MyShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyShop.Web.props",
+      "PackagePath": "buildTransitive\\MyShop.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

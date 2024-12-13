@@ -1,0 +1,15 @@
+﻿
+.MyImage {
+    border-radius: 10px;
+    position: relative;
+    bottom: 5px;
+    left: 170px;
+
+    /*border:4px,black,solid*/
+}
+
+.MyImage:hover {
+    transform: rotate(5deg)
+}
+
+

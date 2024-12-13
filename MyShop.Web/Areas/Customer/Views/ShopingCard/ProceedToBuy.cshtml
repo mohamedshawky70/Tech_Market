@@ -1,0 +1,125 @@
+﻿
+@model OrederHeader_ShopingCardVM;
+@using Microsoft.Extensions.Options
+@inject IOptions<MyShop.Web.Classes.StripeData> Stripe 
+<nav class="bg-white">
+</nav>
+<header>
+    
+    
+</header>
+<form method="post" asp-action="ProceedToBuy" asp-controller="ShopingCard">
+<div class="wrapper">
+    <div class="h5 large">Billing Address</div>
+    <div class="row">
+        <div class="col-lg-6 col-md-8 col-sm-10 offset-lg-0 offset-md-2 offset-sm-1">
+            <div class="mobile h5">Billing Address</div>
+            <div id="details" class="bg-white rounded pb-5">
+                
+                    <div class="form-group"> <label asp-for="OrderHeader.Name" class="text-muted">Name</label> 
+                        <input asp-for="OrderHeader.Name" required value="@Model.OrderHeader.Name" type="text" class="form-control">
+                    </div>
+                    <div><span class="text-danger" asp-validation-for="OrderHeader.Name"></span></div>
+
+                    <div class="form-group">
+                        <label asp-for="OrderHeader.Email" class="text-muted">Email</label>
+                        <div class="d-flex jusify-content-start align-items-center rounded p-2"> 
+                            <input asp-for="OrderHeader.Email" required value="@Model.OrderHeader.Email" type="email"> <span class="fas fa-check text-success pr-sm-2 pr-0"></span>
+                        </div>
+                        <div><span class="text-danger" asp-validation-for="OrderHeader.Email"></span></div>
+
+                    </div>
+                    <div class="row">
+                        <div class="form-group">
+                            <label asp-for="OrderHeader.City">City</label>
+                            <div class="d-flex jusify-content-start align-items-center rounded p-2">
+                                <input asp-for="OrderHeader.City" required type="text"> <span class="fas fa-check text-success pr-2"></span>
+                            </div>
+                            <div><span class="text-danger" asp-validation-for="OrderHeader.City"></span></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                            <div class="form-group">
+                            <label asp-for="OrderHeader.Adress">Address</label>
+                                <div class="d-flex jusify-content-start align-items-center rounded p-2">
+                                <input asp-for="OrderHeader.Adress" required type="text"> <span class="fas fa-check text-success pr-2"></span>
+                                </div>
+                            <div><span class="text-danger" asp-validation-for="OrderHeader.Adress"></span></div>
+
+                            </div>
+                            <div class="form-group">
+                            <label asp-for="OrderHeader.phone">Phone Number</label>
+                                <div class="d-flex jusify-content-start align-items-center rounded p-2">
+                                <input asp-for="OrderHeader.phone" required type="text"> <span class="fas fa-check text-success pr-2"></span>
+                                </div>
+                            <div><span class="text-danger" asp-validation-for="OrderHeader.phone"></span></div>
+
+                            </div>
+                        
+                        
+                    </div> 
+                    <label asp-for="OrderHeader.Country">Country</label>
+                    <select asp-for="OrderHeader.Country" required>
+                        <option selected value="Egypt">Egypt</option>
+                        <option value="China">China</option>
+                        <option value="India">India</option>
+                        <option value="Brazil">Brazil</option>
+                        <option value="Germany">Germany</option>
+                    </select>
+               
+                    <div><span class="text-danger" asp-validation-for="OrderHeader.Country"></span></div>
+
+                </div> <input hidden type="checkbox" checked> 
+            
+        </div>
+        <div class="col-lg-6 col-md-8 col-sm-10 offset-lg-0 offset-md-2 offset-sm-1 pt-lg-0 pt-3">
+            <div id="cart" class="bg-white rounded">
+                @{
+                    decimal TotalPrice = 0;
+                }
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="h6">Cart Summary</div>
+                        <div class="btn btn-outline-warning "> <a class="text-decoration-none text-dark" asp-controller="ShopingCard" asp-action="Index">Edit</a> </div>
+                </div>
+                @foreach (var item in Model.ShopingCard)
+                {
+                    <div class="d-flex jusitfy-content-between align-items-center pt-3 pb-2 border-bottom">
+                        <div class="item pr-2">
+                            <img src="~/Images/Product/@item.product.Img" width="80" height="80">
+                            <div class="number">@item.Counter</div>
+                        </div>
+                        <div class="d-flex flex-column px-3"> <b class="h5">@item.product.Name</b>  </div>
+                        <div style="position:absolute; left:1100px" class="ml-auto"> <b class="h5">@item.product.Price <sup>EGP</sup></b> </div>
+                    </div>
+                        
+                        TotalPrice+= (@item.product.Price*item.Counter);
+                    
+                }
+                    <div class="d-flex align-items-center py-2 text-bold">
+                        <div class="display-5 "><b class="h6 text-success">Total :&nbsp;@TotalPrice<sup>EGP</b></sup></div>
+                    </div>
+            </div>
+    
+          
+            </div>
+            <div class="row pt-lg-3 pt-2 buttons mb-sm-0 mb-2">
+                <div class="col-md-6">
+                    <a asp-action="Index" asp-controller="Home" class="btn btn-secondary">back to shopping</a>
+                </div>
+                <div class="col-md-6 pt-md-0 pt-3">
+                    <button type="submit" class="btn btn-success"> <span class="fas fa-lock"></span>Place Order </a>
+                </div>
+            </div>
+            <div class="text-muted pt-3" id="mobile"> <span class="fas fa-lock"></span> Your information is save </div>
+        </div>
+    </div>
+</div>
+</form>
+<link href="~/css/proceedtobuy.css" rel="stylesheet" />
+@section scripts
+{
+
+    <partial name="_ValidationScriptsPartial" />
+
+}
+@* <link href="~/css/proceedtobuy.css" rel="stylesheet" /> *@

@@ -1,0 +1,49 @@
+﻿@model IQueryable<Category>
+@{
+    ViewBag.PageTitle = "Category Managment";
+    ViewBag.CardTitle =  "Categories List";
+    //Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+<div >
+    <a class="btn btn-success" asp-action="Create" asp-controller="Category"> <i class="bi bi-plus"></i> Create Category</a>
+</div>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Time Created</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.createdTime</td>
+                <div>
+                    <td >
+                        <a class="btn btn-primary" asp-action="Update" asp-controller="Category" asp-route-Id="@item.Id">
+                            <i class="bi bi-pencil-square"></i> Edite
+                        </a>
+                    </td>
+                    <td >
+                    <div class="Del">
+                        <a class="btn btn-danger" asp-action="Delete" asp-controller="Category" asp-route-Id="@item.Id">
+                                <i class="bi bi-trash3"></i>Delete
+                        </a>
+                    </div>
+                    </td>
+                </div>  
+            </tr>
+        }
+    </tbody>
+</table>
+ <style>
+     .Del{
+         position:relative;
+         right:110px;
+     }
+ </style>

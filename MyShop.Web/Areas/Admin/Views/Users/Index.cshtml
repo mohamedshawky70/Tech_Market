@@ -1,0 +1,53 @@
+﻿@* @model IEnumerable<MoreToUser> *@
+@{
+    ViewBag.PageTitle = "Users Managment";
+    ViewBag.CardTitle = "Users List";
+    //Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+<div>
+    <a class="btn btn-success" href="/Identity/Account/Register"> <i class="bi bi-plus"></i> Create New User</a>
+</div>
+
+<table id="myTable" class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+ 
+     <tbody class="table-group-divider">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+               
+                <div>
+                    @if(item.LockoutEnd==null || DateTimeOffset.Now>item.LockoutEnd)//الشرط التاني يعني فترة اللوك خلصت 
+                    {
+                        <td class="lock">
+                            <a class="btn btn-success" asp-action="LockUnLock" asp-controller="Users" asp-route-Id="@item.Id">
+                                <i class="fas fa-lock-open"></i>
+                            </a>
+                        </td>
+                    }
+                    else
+                    {
+                        <td class="lock">
+                            <a class="btn btn-danger" asp-action="LockUnLock" asp-controller="Users" asp-route-Id="@item.Id">
+                                <i class="fas fa-lock"></i>
+                            </a>
+                        </td>
+                    }
+                  @*   <td class="delete">
+                        <a class="btn btn-danger" asp-action="Delete" asp-controller="Category" asp-route-Id="@item.Id">
+                            <i class="bi bi-trash3"></i>Delete
+                        </a>
+                    </td> *@
+                </div> 
+            </tr>
+        }
+    </tbody> 
+</table>

@@ -1,0 +1,44 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<MoreToUser> SignInManager
+@inject UserManager<MoreToUser> UserManager
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+    {//@User.Identity?.Name!
+    <li class="nav-item">
+            <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Welcom , @User.Identity.Name.Substring(0, @User.Identity.Name.IndexOf('@'))! </a>
+    </li>
+    <li class="nav-item">
+        <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button id="logout" type="submit" class=" logou nav-link btn btn-link text-dark border-0 btn btn-primary"><i class="bi bi-box-arrow-left "></i> Logout</button>
+        </form>
+    </li>
+}
+else
+{
+    
+       
+            <a class="nav-link text-dark btn btn-primary" id="register" asp-area="Identity" asp-page="/Account/Register">Register</a>
+       
+        <li class="nav-item logo">
+            <a class="nav-link text-dark btn btn-primary" id="login" asp-area="Identity" asp-page="/Account/Login">Login</a>
+        </li>
+    
+}
+</ul>
+<style>
+    .logou{
+        position:relative;
+        left:10px;
+    }
+    .logo{
+        position: relative;
+        left: 15px;
+    }
+    .reg{
+        position: relative;
+        left: 50px;
+        
+    }
+</style>

@@ -1,0 +1,44 @@
+﻿@model Category
+
+@*@{
+    ViewData["Title"] = Model is null ? "Add Category" : "Edite Category";
+}
+<h1>@ViewData["Title"]</h1>*@
+@{
+    ViewBag.PageTitle = "Category Managment";
+    ViewBag.CardTitle = Model is null ? "Create Category" : "Edite Category";
+    //Layout = "~/Views/Shared/_Dashboard.cshtml";   ان قايله في القيوستارت يطلع علي الداش بورد
+}
+<form method="post" asp-action=@(Model is null?"Create":"Update") asp-controller="Category">
+    
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" type="text" class="form-control" placeholder="Name">
+        <div><span class="text-danger" asp-validation-for="Name"></span></div>
+    </div>
+    <div class="mb-3"> 
+        <label asp-for="Description" class="form-label">Description</label>
+        <textarea asp-for="Description" type="text" class="form-control" placeholder="Description"></textarea>
+        <div><span class="text-danger" asp-validation-for="Description"></span></div>
+    </div>
+    <button type="submit" class="btn btn-primary ">
+        @{
+            if (Model == null)
+            {
+                <div > <i class="bi bi-plus"></i>Create</div>
+            }
+            else
+            {
+                <div><i class="bi bi-pencil-square"></i>Edit</div>
+            }
+        }
+        @*@(Model is null ? "Create" : " Edit")*@
+    </button>
+    <a class="btn btn-warning" asp-action="Index" asp-controller="Category"> <i class="bi bi-x-circle"></i>Cansel</a>
+</form>
+@section scripts
+{
+
+    <partial name="_ValidationScriptsPartial" />
+    
+}

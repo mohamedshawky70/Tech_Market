@@ -1,0 +1,48 @@
+﻿
+.delete {
+    position: relative;
+    right: 150px;
+
+}
+
+.lock {
+    position: relative;
+    right: 40px;
+}
+
+
+.PM {
+    position: absolute;
+    left: 220px;
+    top: 70px;
+}
+
+.lb {
+    position: absolute;
+    left: 225px;
+    bottom: 90px;
+}
+
+.price {
+    position: absolute;
+    left: 400px;
+    top: 20px
+}
+.del {
+    position: absolute;
+    right:400px;
+    top: 100px
+}
+.PricShopin{
+    position:absolute;
+    right:150px;
+
+}
+/*.TotalPrice {
+
+    width: 10;
+    color:darkslateblue;
+    border-radius: 10px;
+    
+    
+}*/

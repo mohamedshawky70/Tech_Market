@@ -1,0 +1,95 @@
+﻿ @model Product
+
+@{
+    ViewBag.PageTitle = "Product Managment";
+    ViewBag.CardTitle = Model is null ? "Create Product" : "Edite Product";
+    //Layout = "~/Views/Shared/_Dashboard.cshtml";
+
+    
+        SelectList s = new SelectList(ViewBag.allCategories, "Id", "Name");
+    
+}
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action=@(Model is null?"Create":"Update") asp-controller="Product" enctype="multipart/form-data">@* بعرف السرفر اني هرفع فايل فياخد الفايل ده وبعته كبراميتر في بوست الكريت في ال(IfromFile) *@
+            @*في الايدت الصوره مبترجعش فبرجعها عن طريق ده ومبظهرهوش<input asp-for="Img" type="hidden" /> *@
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" type="text" class="form-control" placeholder="Name">
+                <div><span class="text-danger" asp-validation-for="Name"></span></div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label">Description</label>
+                <textarea asp-for="Description" type="text" class="form-control" placeholder="Description"></textarea>
+                <div><span class="text-danger" asp-validation-for="Description"></span></div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Price" class="form-label">Price</label>
+                <input asp-for="Price" type="text" class="form-control" placeholder="Price">
+                <div><span class="text-danger" asp-validation-for="Price"></span></div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="CategoryId" class="form-label">Categories</label>
+                <select asp-for="CategoryId" class="form-control" asp-items="s">
+                    <option selected disabled>Select Category</option>
+                </select>
+                <div><span class="text-danger" asp-validation-for="CategoryId"></span></div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Img" class="form-label">Image</label>
+                <input asp-for="Img" name="Image" class="form-control" type="file" accept="image/*" onchange="PrevImg(event)" id="fillImg"/>
+                <div><span class="text-danger" asp-validation-for="Img"></span></div>
+            </div>
+            <div class="p-2">
+                <button type="submit" class="btn btn-primary">
+                    @{
+                        if (Model == null)
+                        {
+                                    <div> <i class="bi bi-plus"></i>Create</div>
+                        }
+                        else
+                        {
+                                    <div><i class="bi bi-check-all"></i>Save</div>
+                            
+                        }
+                    }
+                </button>
+                <a class="btn btn-warning" asp-action="Index" asp-controller="Product"> <i class="bi bi-x-circle"></i>Cansel</a>
+            </div>
+        </form>
+    </div>
+    @if (Model != null)
+    {
+        <div class="MyImage">
+
+            <img src="~/Images/Product/@Model.Img"  width="600" height="500" id="ShowImg" />  @* Edit *@
+
+        </div>
+    }
+    else
+    {
+        <div class="MyImage">
+
+        <img width="600" height="500" id="ShowImg" /> @* Creat *@
+
+        </div>
+    }
+    <script>                                                              //preview image befor upload
+        function PrevImg(event) {                                         // لما يحصل تغير في الإنبوت بتاع الصوره (اون تشينج) نفذ الفانكشن دي اولا هاتلي مكان الصوره المضافه وضفلي في السورس بتاع المكان ده اللنك بتاع النبوت اللي هوه الايفنت
+            var PlaceImg = document.getElementById('ShowImg');
+            PlaceImg.src = URL.createObjectURL(event.target.files[0])
+        }
+           
+    </script>
+
+    
+    
+    <link rel="stylesheet" href="~/css/ImgAdminPro.css">
+</div>
+
+@section scripts
+{
+
+    <partial name="_ValidationScriptsPartial" />
+
+}

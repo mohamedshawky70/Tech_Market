@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TechMarket\\MyShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|e:\\techmarket\\myshop\\myshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|e:\\techmarket\\myshop\\myshop.web\\areas\\customer\\controllers\\shopingcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\controllers\\shopingcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|e:\\techmarket\\myshop\\myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|e:\\techmarket\\myshop\\myshop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|e:\\techmarket\\myshop\\myshop.web\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|e:\\techmarket\\myshop\\myshop.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|e:\\techmarket\\myshop\\myshop.web\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|e:\\techmarket\\myshop\\myshop.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|e:\\techmarket\\myshop\\myshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA750BA-2DC4-439F-9954-FE85B8992ECF}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TechMarket\\MyShop\\MyShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "MyShop.Web\\appsettings.json",
+              "ToolTip": "E:\\TechMarket\\MyShop\\MyShop.Web\\appsettings.json",
+              "RelativeToolTip": "MyShop.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T18:27:07.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopingCardController.cs",
+              "DocumentMoniker": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Customer\\Controllers\\ShopingCardController.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Customer\\Controllers\\ShopingCardController.cs",
+              "ToolTip": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Customer\\Controllers\\ShopingCardController.cs",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Customer\\Controllers\\ShopingCardController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:29:57.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:29:53.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:29:37.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:29:36.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:29:34.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:29:29.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\TechMarket\\MyShop\\MyShop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:29:28.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TechMarket\\MyShop\\MyShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Program.cs",
+              "ToolTip": "E:\\TechMarket\\MyShop\\MyShop.Web\\Program.cs",
+              "RelativeToolTip": "MyShop.Web\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAtwDMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:50:01.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

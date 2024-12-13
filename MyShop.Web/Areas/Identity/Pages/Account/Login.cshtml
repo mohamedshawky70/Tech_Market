@@ -1,0 +1,96 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+<style>
+    .logi {
+        margin-left: 40px;
+        color: blue;
+    }
+
+    .tit {
+        margin-top: 40px;
+        font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+        color: blue;
+    }
+
+    .em {
+        margin-top: 40px;
+    }
+
+    .pas {
+        margin-top: 40px;
+    }
+
+    .rem {
+        margin-top: 20px;
+    }
+
+    .log {
+        margin-top: 40px;
+    }
+
+    .for {
+        margin-top: 15px;
+    }
+</style>
+
+<div class="row logi">
+    <div class="col-md-4 form-group ">
+        <section>
+            <form id="account" method="post">
+                <h1 class="tit">Sign In</h1>
+                <hr />
+                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <div class="form-floating mb-3 em">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                    <label asp-for="Input.Email" class="form-label">Email</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-9 pas">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+                    <label asp-for="Input.Password" class="form-label">Password</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div class="checkbox mb-3 rem">
+                    <label asp-for="Input.RememberMe" class="form-label">
+                        <input class="form-check-input" asp-for="Input.RememberMe" />
+                        @Html.DisplayNameFor(m => m.Input.RememberMe)
+                    </label>
+                </div>
+                <div class="log">
+                    <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-info">Log in</button>
+                </div>
+                
+            </form>
+        </section>
+    </div>
+
+
+    <style>
+        .LogImg {
+            width: 600px;
+            hight: 30px;
+            position: relative;
+            left: 150px;
+        }
+    </style>
+    <img class="LogImg" src="~/img/login.jpg" />
+    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+        <div>
+            <p>
+                @foreach (var provider in Model.ExternalLogins!)
+                {
+                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                }
+            </p>
+        </div>
+    </form>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
