@@ -72,10 +72,6 @@
 - **Create Order:** Customers can place orders for products.
 - **Make Payments:** Securely process payments using Stripe, with support for various payment methods.
 
-### 12. [Publishing to Monester](#publishing-to-monester)
-- **Description:** Deploy the project on Monester, ensuring the deployment process is smooth and the application is optimized for the platform.
-- **Deployment Focus:** Ensure the application is configured for performance, security, and scalability in a cloud environment.
-
 ### 13. [Data Seeding](#data-seeding)
 - **Description:** Seed initial data for the admin role and users to ensure the system starts with essential data, improving ease of testing and initial use.
 - **Seeded Data:**
