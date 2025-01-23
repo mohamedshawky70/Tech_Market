@@ -6,35 +6,27 @@
 
 ## Key Features and Development Focus
 
-### 1. [Onion Architecture](#onion-architecture)
-- **Description:** Build a multi-layered architecture that separates concerns and promotes a clean, maintainable codebase.
-- **Layers:**
-  - **Core:** Contains domain entities and business logic.
-  - **Application:** Handles business operations and use cases.
-  - **Infrastructure:** Manages data access, external services, and other infrastructure concerns.
-  - **Presentation:** The user interface layer, which interacts with the end-user.
-
-### 2. [Repository Pattern](#repository-pattern)
+### 1. [Repository Pattern](#repository-pattern)
 - **Description:** Implement the Repository Pattern to abstract data access logic, making the code more testable and maintainable. 
 - **Functionality:**
   - **Repository Pattern:** Simplifies data access by providing a consistent API for CRUD operations.
   - **Unit of Work:** Manages transactions across multiple repositories, ensuring data integrity.
 
-### 3. [Singleton Pattern](#singleton-pattern)
+### 2. [Singleton Pattern](#singleton-pattern)
 - **Description:** Utilize the Singleton Pattern where appropriate to ensure a class has only one instance, providing a global point of access to it.
 - **Usage:** This pattern is particularly useful for managing shared resources, such as configuration settings or logging services.
 
-### 4. [Entity Framework Core](#entity-framework-core)
+### 3. [Entity Framework Core](#entity-framework-core)
 - **Description:** Handle database interactions using Entity Framework Core, allowing for seamless integration with the database. The use of code-first migrations ensures that the database schema is in sync with the application models.
 - **Features:**
   - **Code-First Migrations:** Automatically generate database schema from your code.
   - **Entity Mapping:** Ensure proper mapping of domain entities to database tables.
 
-### 5. [Theme Integration](#theme-integration)
+### 4. [Theme Integration](#theme-integration)
 - **Description:** Integrate a pre-built theme into the project. Customize the theme to match the project’s requirements, ensuring it works well with ASP.NET Core.
 - **Customization:** Modify the theme to align with the branding and functional needs of the project, ensuring consistency across all pages.
 
-### 6. [User and Role Management](#user-and-role-management)
+### 5. [User and Role Management](#user-and-role-management)
 - **Description:** Implement user and role management using Microsoft ASP.NET Identity. This includes functionalities for user registration, login, role assignment, and permissions management.
 
 #### Admin Capabilities
